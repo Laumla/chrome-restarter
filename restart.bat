@@ -1,1 +1,1 @@
-start chrome "https://www.google.com/search?q=chrome://restart"
+start chrome "chrome://restart"
